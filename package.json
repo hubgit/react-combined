@@ -1,6 +1,6 @@
 {
   "name": "react-combined",
-  "version": "0.0.1",
+  "version": "16.2.0",
   "main": "dist/react-combined.js",
   "license": "MIT",
   "files": [
